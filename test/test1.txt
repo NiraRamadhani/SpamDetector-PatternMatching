@@ -1,0 +1,6 @@
+{
+	algorithm : "KMP"
+	search_type : "1"
+	username : "thareq_my"
+	spam_indicator : "http
+}

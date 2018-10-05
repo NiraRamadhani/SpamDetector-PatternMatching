@@ -1,0 +1,6 @@
+{
+	algorithm : "BM"
+	search_type : "2"
+	username : "indonesia"
+	spam_indicator : "RT"
+}
